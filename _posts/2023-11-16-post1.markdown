@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Este es mi primer post"
+author: "Julián"
+categories: journal
+tags: [documentation,sample]
+image: cutting.jpg
+---
+
+Hola Luis.
